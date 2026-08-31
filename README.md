@@ -430,4 +430,4 @@ auditability
 AI-assisted decision systems
 
 The project is intentionally structured so that the mathematical and deterministic components remain useful independently of any future AI integration.
-```
+
